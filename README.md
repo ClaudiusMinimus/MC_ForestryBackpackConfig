@@ -6,10 +6,10 @@ The Forestry mod no longer by default, such as ladders and doors (among other it
 
 The Adventure backpack can now be used for many items as well. 
 
-##Roadmap
+## Roadmap
 I plan to add many items from other mods in this modpack. I would welcome others contributing to this config file; provided that any pull requests 
 
-##Support
+## Support
 While I do plan to maintain this repo, bug reports regarding the backpacks should be posted to either: FTB Revelation or Forestry
 
 I am rather new to git, therefore, I cannot provide support for any issues related to git.
